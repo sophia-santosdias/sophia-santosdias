@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Sophia Dias
 
-**`Estudante Ciência da Computação`**
+**`Estudante`**
 
-Me chamo Sophia dos Santos Dias, tenho 18 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na PUC-Rio. 
+Me chamo Sophia dos Santos Dias, tenho 18 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na PUC-Rio. Estou construindo minha base em programação, algoritmos, desenvolvimento de software e análise de dados. Utilizo este perfil para compartilhar projetos acadêmicos, exercícios, estudos e experiências que fazem parte da minha trajetória na tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -41,6 +41,12 @@ Me chamo Sophia dos Santos Dias, tenho 18 anos e sou natural do Rio de Janeiro. 
 
 <br/>
 <br/>
+
+### 📂 O que você encontrará aqui
+ - Projetos acadêmicos
+ - Exercícios de programação
+ - Estudos pessoais
+ - Experimentos e projetos em desenvolvimento
 
 ### 📊 Estatísticas
 
